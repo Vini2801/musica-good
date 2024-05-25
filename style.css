@@ -1,0 +1,13 @@
+
+
+body{
+    text-align:center;
+    background-image:url(musica\ 2.png);
+    margin: 50px;
+  }
+  h1{
+    text-transform:uppercase;
+    font-size:72px;
+    font-family:'Verdana';
+    padding:30px;
+  }
